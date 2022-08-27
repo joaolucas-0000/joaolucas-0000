@@ -1,12 +1,12 @@
-    System Information
+    System and Hardware Information
     ------------------------------------------
     OS: Windows 10
-    Kernel: 21H1, Build ver. 19043.1110
-    WM: Windows Explorer
-    Shell: powershell
-    Terminal: alacritty 0.7.2
+    Mouse: T91 Gamer
+    Keyboard: FY 14K
+    Language: Python (3.10 version)
     Resolution: 1920x1080
     Theme: Dark
-    CPU: Intel Core i5 11400 @ 2.6GHz
-    GPU: Nvidia GeForce GTX 1050
-    Memory:  3072MB / 8192MB 3200MHz
+    IDE: Visual Studio Code
+    CPU: Intel Core I5 2520M @ 2.50GHz
+    GPU: Intel HD Graphics 2500
+    Memory:  4072MB / 8192MB 1600MHz
