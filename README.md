@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**joaolucas-0000/joaolucas-0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    System Information
+    ------------------------------------------
+    OS: Windows 10
+    Kernel: 21H1, Build ver. 19043.1110
+    WM: Windows Explorer
+    Shell: powershell
+    Terminal: alacritty 0.7.2
+    Resolution: 1920x1080
+    Theme: Dark
+    CPU: Intel Core i5 11400 @ 2.6GHz
+    GPU: Nvidia GeForce GTX 1050
+    Memory:  3072MB / 8192MB 3200MHz
