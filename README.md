@@ -27,7 +27,7 @@
 ## Ultimos Projetos:
 
 - [API do PcGamer em Python](https://github.com/joaolucas-0000/API-PcGamer_python.git)
-- [Meu desebvolvimentos com Lis em Python](https://github.com/joaolucas-0000/Meu-desenvolvimento-com-List-Python.git)
+- [Meu desebvolvimentos com List em Python](https://github.com/joaolucas-0000/Meu-desenvolvimento-com-List-Python.git)
 
 
 
