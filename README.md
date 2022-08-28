@@ -1,3 +1,6 @@
+# "Hello There, my name is Jonh" 👀
+
+
 ## Rede Sociais 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zbymvw5nd79w4xfh72u9n78q1?si=590a4b3a50034eae)
@@ -27,9 +30,7 @@
 ## Ultimos Projetos:
 
 - [API do PcGamer em Python](https://github.com/joaolucas-0000/API-PcGamer_python.git)
-- [Meu desebvolvimentos com List em Python](https://github.com/joaolucas-0000/Meu-desenvolvimento-com-List-Python.git)
-
-
+- [Meu desenvolvimentos com List em Python](https://github.com/joaolucas-0000/Meu-desenvolvimento-com-List-Python.git)
 
 
 
