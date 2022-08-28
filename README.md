@@ -22,7 +22,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/53GRefoHISMhLFSSf2yhpw?si=6be05ceead8a4b98)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q?si=2AV1vgquQqOqt6lXIi_Tgw)
 <br/>
 
 
