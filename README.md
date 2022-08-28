@@ -2,8 +2,8 @@
     ------------------------------------------
     Mouse: T91 Gamer
     Keyboard: FY 14K
-    Resolution: 1920x1080
-    Model Laptop: ThinkPad
+    Secondary Monitor: LG L177W
+    Model Laptop: ThikPad L420
     CPU: Intel Core I5 2520M @ 2.50GHz
     GPU: Intel HD Graphics 2500
     Memory:  4072MB / 8192MB 1600MHz
@@ -19,10 +19,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaolucas-0000)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-2399a3214/)
 
-### Softwares para Desenvolvimento 
+### IDE's e SO
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10)
-
+[![]()]()
+[![]()]()
+[![]()]()
+[![]()]()
 
 
 
