@@ -1,13 +1,3 @@
-    ### Hardware Information
-    ------------------------------------------
-    Mouse: T91 Gamer
-    Keyboard: FY 14K
-    Secondary Monitor: LG L177W
-    Model Laptop: ThikPad L420
-    CPU: Intel Core I5 2520M @ 2.50GHz
-    GPU: Intel HD Graphics 2500
-    Memory:  4072MB / 8192MB 1600MHz
-
 ### Rede Sociais 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zbymvw5nd79w4xfh72u9n78q1?si=590a4b3a50034eae)
@@ -19,17 +9,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaolucas-0000)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-2399a3214/)
 
-### IDE's e SO
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/software-download/windows10)
-[![]()]()
-[![]()]()
-[![]()]()
+### My Skills
+[![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
+[![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![WinTerminal](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![]()]()
 
 ### Meu Portfólio
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAFBtWzjdM0/qvS0M0Bk4gs6zHiYHdEYlw/view?utm_content=DAFBtWzjdM0&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
-https://www.canva.com/design/DAFBtWzjdM0/Yg2cxfV3TTggFDyT8Px67Q/watch?utm_content=DAFBtWzjdM0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 
