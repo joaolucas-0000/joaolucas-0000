@@ -29,8 +29,7 @@
 
 ## Ultimos Projetos:
 
+- [Projeto-Logo-Apple-em-Tkinter](https://github.com/joaolucas-0000/Projeto-Logo-Apple-em-Tkinter.git)
 - [API do PcGamer em Python](https://github.com/joaolucas-0000/API-PcGamer_python.git)
-- [Meu desenvolvimentos com List em Python](https://github.com/joaolucas-0000/Meu-desenvolvimento-com-List-Python.git)
-
 
 
