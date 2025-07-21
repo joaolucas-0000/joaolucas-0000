@@ -1,11 +1,12 @@
 
+
 <h1 align="center">João Lucas Alves de Souza</h1>
 <p align="center">
   <i>Analista de Soluções | Técnico de IOT </i>
 </p>
 
 
-
+![Image](https://github.com/user-attachments/assets/4bf793a4-781c-4fc4-a522-7b8dc63c0d1e)
 
 
 
