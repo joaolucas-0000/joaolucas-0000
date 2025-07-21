@@ -18,10 +18,12 @@ Sou apaixonado por transformar problemas em soluções práticas. Trabalho com t
 ### 🧰 Tecnologias & Ferramentas
 
 <p align="left">
-  https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-  https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-  https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-  https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![WinTerminal](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()[![]()]()
+
 </p>
 
 <p align="left">
