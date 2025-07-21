@@ -4,6 +4,11 @@
   <i>Analista de Soluções | Técnico de IOT </i>
 </p>
 
+
+
+
+
+
 ---
 
 ### 🚀 Sobre mim
