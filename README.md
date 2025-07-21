@@ -44,10 +44,8 @@ Sou apaixonado por transformar problemas em soluções práticas. Trabalho com t
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?usernameio&show_icons=true&theme=radical
   https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical
-</p>
 
 ---
 
