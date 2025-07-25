@@ -43,7 +43,7 @@ Esse é meu repositorio onde eu demonstro projetos inovadores e soluções dinam
 |--------|-----------|-------------|
 | 🔧 **Projeto-CalculadoraTk** | Calculadora em Python com interface | Python, Tkinter |
 | ⚙️ **Projeto-Menu-De-Navegacao** | Menu de navegação interativo deslizante | HTML, CSS |
-| 📊 **Projeto-ConversorMoedas** | tela de login simples  | HTML, CSS |
+| 📊 **Projeto-ConversorMoedas** | Conversor de Moedas com API e interface | Python, CustomTkinter |
 
 ---
 
