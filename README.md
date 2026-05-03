@@ -42,7 +42,7 @@ Esse é meu repositorio onde eu demonstro projetos inovadores e soluções dinam
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🔧 **Projeto-CalculadoraTk** | Calculadora em Python com interface | Python, Tkinter |
-| ⚙️ **Projeto-Gerador_Tabela_SQL** | Menu de navegação interativo deslizante | HTML, CSS |
+| ⚙️ **Projeto-Gerador_Tabela_SQL** | Gerador de Tabelas SQL| Python, SQL |
 | 📊 **Projeto-ConversorMoedas** | Conversor de Moedas com API e interface | Python, CustomTkinter |
 
 ---
