@@ -46,9 +46,3 @@ Esse é meu repositorio onde eu demonstro projetos inovadores e soluções dinam
 | 📊 **Projeto-ConversorMoedas** | Conversor de Moedas com API e interface | Python, CustomTkinter |
 
 ---
-
-## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucas-0000)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
